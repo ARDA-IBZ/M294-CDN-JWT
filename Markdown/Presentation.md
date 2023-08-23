@@ -1,4 +1,4 @@
-# Gruppenpräsentation nr 1 - 23.08.2023 -
+# Gruppenpräsentation nr 2 - 23.08.2023 -
 
 # Technische Grundlagen für Webentwicklung: Von CDN bis JWT
 
